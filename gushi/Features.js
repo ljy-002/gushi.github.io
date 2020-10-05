@@ -67,22 +67,13 @@
         });
       }
 
-      function getDefaultOS() {
+      function getDefaultgushi() {
         // check location hash
         var hash = location.hash.substr(1);
-        if (['windows', 'mac', 'linux', 'android', 'ios'].indexOf(hash) > -1) return hash;
-        // chromeos is unsupported
-        if (/cros/i.test(navigator.userAgent)) return 'windows';
-        // ios
-        if (/iphone/i.test(navigator.userAgent) || /ipad/i.test(navigator.userAgent)) return 'ios';
-        // android
-        if (/android/i.test(navigator.userAgent)) return 'android';
-        // mac
-        if (/mac/i.test(navigator.userAgent)) return 'mac';
-        // linux
-        if (/linux/i.test(navigator.userAgent)) return 'linux';
-        // most likely windows, everything undetected should default to this anyways
-        return 'windows';
+        if (['译文', '赏析'].indexOf(hash) > -1) return hash;
+        if (/cros/i.test(navigator.userAgent)) return '译文';
+        if (/iphone/i.test(navigator.userAgent) || /ipad/i.test(navigator.userAgent)) return '赏析';
+        return '译文';
       }
 
       // implement the platform selectors
