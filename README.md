@@ -81,25 +81,47 @@
   <tbody>
     <!--分割线-->
     <td align="center">
-      <a href="https://ljy-002.github.io/Web-gitignore.github.io/">
-        <img src="https://avatars1.githubusercontent.com/u/63292034?s=460&u=271fb228c3c812e73709021a912ab3dec0adb205&v=4" width="100px;" alt="">
-        <br>
-        <sub><b>ljy-002</b></sub>
-      </a>
+      <sub><b>MapMaths</b></sub>
+      <br>
+      <b>写入文件</b>
+      <br>
+      <a href="https://github.com/ljy-002/gushi.github.io/pull/42">解决问题（#42）</a>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Michael Liu-walkerljy</b></sub>
+      <br>
+      <b>写入文件，贡献者</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Quinn-Little Earthworm</b></sub>
+      <br>
+      <b>写入文件</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>ljy-002</b></sub>
       <br>
       <b>写入文件，所有者</b>
     </td>
     <!--分割线-->
     <td align="center">
-      <a href="https://mapmaths.github.io">
-        <img src="https://avatars1.githubusercontent.com/u/62785981?s=400&u=9ed8f97b0fb1901b7a4680c60677d50e2a03e10d&v=4" width="100px;" alt="">
-        <br>
-        <sub><b>MapMaths</b></sub>
-      </a>
+      <sub><b>Adamtimmy</b></sub>
       <br>
       <b>写入文件</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Adamtimmy-AT</b></sub>
       <br>
-      <a href="https://github.com/ljy-002/gushi.github.io/pull/42">解决问题（#42）</a>
+      <b>暂无</b>
+    </td>
+    <!--分割线-->
+    <td align="center">
+      <sub><b>Adamtimmy2</b></sub>
+      <br>
+      <b>暂无</b>
     </td>
     <!--分割线-->
   </tbody>
