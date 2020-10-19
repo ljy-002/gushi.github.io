@@ -2,7 +2,7 @@
 
 中国古诗-GITI站点
 
-## 开发者计划成员：
+## 开发者计划成员/权限：
 
 <table>
   <tbody>
@@ -72,13 +72,8 @@
       </td>
       <!--分割线-->
      </tr>
-  </tbody>
-</table>
-
-## 贡献者/权限：
-
-<table>
-  <tbody>
+    <!--分割线-->
+    <tr>
     <!--分割线-->
     <td align="center">
       <sub><b>MapMaths</b></sub>
@@ -124,5 +119,6 @@
       <b>暂无</b>
     </td>
     <!--分割线-->
+    </tr>
   </tbody>
 </table>
